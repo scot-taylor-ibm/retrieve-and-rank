@@ -1,0 +1,69 @@
+<!-- Navigation definition -->
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="retrieve-and-rank" audience="service" href="/docs/services/retrieve-and-rank/index.html"}
+Retrieve and Rank
+
+    {: .navgroup id="learn"}
+    getting-started.md
+    index.md
+
+    {: .topicgroup}
+    Demos
+        [Quick demo](http://retrieve-and-rank-demo.mybluemix.net)/
+        [Professor Languo](https://professor-languo.mybluemix.net/)
+
+    {: .topicgroup}
+    Additional resources
+        [Blog](https://developer.ibm.com/watson/blog/)
+        [Webinars](https://www.ibm.com/watson/webinars/)
+        [Watson videos](https://www.youtube.com/user/IBMWatsonSolutions)
+    {: .navgroup-end}
+
+    {: .navgroup id="reference"}
+    [API reference](https://www.ibm.com/watson/developercloud/retrieve-and-rank/api)
+
+    {: .topicgroup}
+    Watson SDKs
+        [Android SDK](https://github.com/watson-developer-cloud/android-sdk)
+        [Apple iOS SDK](https://github.com/watson-developer-cloud/ios-sdk)
+        [Java SDK](https://github.com/watson-developer-cloud/java-sdk)
+        [Node.js SDK](https://github.com/watson-developer-cloud/node-sdk)
+        [Python SDK](https://github.com/watson-developer-cloud/python-sdk)
+        [Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
+
+    [Watson GitHub repos](https://github.com/watson-developer-cloud/)
+    {: .navgroup-end}
+
+    {: .navgroup id="howto"}
+    {: .topicgroup}
+    Using your own data
+        overview.md
+        configure.md
+        training-data.md
+        reranking-results.md
+
+    {: .topicgroup}
+    Using enhanced information retrieval
+        using-enhanced-retrieval.md
+        using-kale.md
+        using-data-crawler.md
+        configure-connector.md
+        configure-orchestration.md
+        crawling-data.md
+        testing-enhanced-retrieval.md
+
+    using-solr.md
+    ranker-tooling.md
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    release-notes.md
+
+    {: .topicgroup}
+    Developer community
+        [StackOverflow](http://stackoverflow.com/questions/tagged/retrieve-and-rank)
+        [developerWorks Answers](https://developer.ibm.com/answers/topics/retrieve-and-rank/)
+        [WDC Slack channel](http://wdc-slack-inviter.mybluemix.net/)
+    {: .navgroup-end}
