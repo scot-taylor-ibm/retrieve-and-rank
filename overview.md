@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2017
-lastupdated: "2017-08-31"
+lastupdated: "2017-09-05"
 
 ---
 
@@ -17,7 +17,7 @@ lastupdated: "2017-08-31"
 {:python: .ph data-hd-programlang='python'}
 {:swift: .ph data-hd-programlang='swift'}
 
-# Overview
+# Overview of using your own data
 {: #overview}
 
 After you set up, train, and query the sample data in the [Getting started tutorial](/docs/services/retrieve-and-rank/getting-started.html), you can use the service with your own data.
