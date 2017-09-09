@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2017
-lastupdated: "2017-09-02"
+lastupdated: "2017-09-09"
 
 ---
 
@@ -41,7 +41,7 @@ IBM has made it easy to create this end-to-end solution with these tools:
 
 ## Prerequisites
 
-You need a {{site.data.keyword.Bluemix_notm}} account. If you do not already have one, see [Getting started with Watson and Bluemix ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/watson/developercloud/doc/common/index.html){: new_window}.
+You need a {{site.data.keyword.Bluemix_notm}} account. If you do not already have one, see [Getting started with {{site.data.keyword.watson}} and {{site.data.keyword.Bluemix_notm}}](/docs/services/watson/index.html).
 
 ## System requirements
 
