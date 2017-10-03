@@ -20,6 +20,8 @@ lastupdated: "2017-09-02"
 # Testing your enhanced information retrieval solution
 {: #c_eir_testing}
 
+**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to (migrate)[/docs/services/discovery/migrate-dcs-rr.html].  **Note:** May not apply in select Dedicated environments.
+
 After you have done the following, the {{site.data.keyword.retrieveandrankshort}} service instance has your data:
 
 -   Created and configured the {{site.data.keyword.retrieveandrankshort}} and {{site.data.keyword.documentconversionshort}} services with Kale
