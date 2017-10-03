@@ -20,6 +20,8 @@ lastupdated: "2017-09-01"
 # Configuring Orchestration service options
 {: #config_orch}
 
+**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to (migrate)[/docs/services/discovery/migrate-dcs-rr.html].  **Note:** May not apply in select Dedicated environments.
+
 The Orchestration service tells the Data Crawler how to manage crawled files. To access the in-product manual for the `orchestration-service.conf` file with the most up-to-date information, enter the following command from the Data Crawler installation directory:
 {: shortdesc}
 

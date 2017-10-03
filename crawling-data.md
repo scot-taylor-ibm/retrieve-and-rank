@@ -20,6 +20,8 @@ lastupdated: "2017-09-01"
 # Crawling your data repository
 {: #deploy_crawl}
 
+**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to (migrate)[/docs/services/discovery/migrate-dcs-rr.html].  **Note:** May not apply in select Dedicated environments.
+
 Once you have properly configured the Data Crawler options, you can run a crawl against your data repository by entering the `crawler` command. The Data Crawler prompts you with documentation that explains what to do. You can run a test crawl or an actual crawl, in addition to other crawl options.
 {: shortdesc}
 

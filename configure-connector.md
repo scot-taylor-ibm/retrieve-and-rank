@@ -20,6 +20,8 @@ lastupdated: "2017-09-01"
 # Configuring connector and seed options
 {: #modify_config}
 
+**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to (migrate)[/docs/services/discovery/migrate-dcs-rr.html].  **Note:** May not apply in select Dedicated environments.
+
 When crawling data, the Data Crawler first identifies the type of data repository (connector) and the user-specified starting location (seed) at which to begin downloading information. Seeds are the starting points of a crawl and are used by the Data Crawler to retrieve data from the resource that is identified by the connector.
 {: shortdesc}
 

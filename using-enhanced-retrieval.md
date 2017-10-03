@@ -20,6 +20,8 @@ lastupdated: "2017-09-09"
 # Building an enhanced information retrieval solution
 {: #c_eir_overview}
 
+**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to (migrate)[/docs/services/discovery/migrate-dcs-rr.html].  **Note:** May not apply in select Dedicated environments.
+
 The {{site.data.keyword.retrieveandrankshort}} service's ability to find the best response to a natural language query from a large set of documents is a natural fit for use in combination with the {{site.data.keyword.documentconversionshort}} service, which focuses on processing formatted documents such as PDFs, Microsoft Word documents, and HTML pages. With the addition of several new developer tools, it is now possible to enable an end-to-end machine-learning enhanced information retrieval solution that can ingest documents from various repositories directly into {{site.data.keyword.retrieveandrankshort}} without writing any code.
 {: shortdesc}
 
