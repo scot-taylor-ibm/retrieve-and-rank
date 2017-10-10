@@ -20,7 +20,7 @@ lastupdated: "2017-09-02"
 # Using the Retrieve and Rank Web Interface
 {: #top}
 
-**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to (migrate)[/docs/services/discovery/migrate-dcs-rr.html].  **Note:** May not apply in select Dedicated environments.
+**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to [migrate[(/docs/services/discovery/migrate-dcs-rr.html).  **Note:** May not apply in select Dedicated environments.
 
 You can use the {{site.data.keyword.retrieveandrankshort}} Web Interface to create a cluster and collection, upload documents and questions, and train and test rankers. The following steps walk you through getting started with the service in a typical use case for the {{site.data.keyword.retrieveandrankshort}} Web Interface.
 {: shortdesc}
