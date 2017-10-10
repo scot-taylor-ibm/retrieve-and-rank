@@ -20,7 +20,7 @@ lastupdated: "2017-09-05"
 # About
 {: #overview}
 
-**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to (migrate)[/docs/services/discovery/migrate-dcs-rr.html].  **Note:** May not apply in select Dedicated environments.
+**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to [migrate](/docs/services/discovery/migrate-dcs-rr.html).  **Note:** May not apply in select Dedicated environments.
 
 The {{site.data.keyword.retrieveandrankfull}} service combines two information-retrieval components in a single service: the power of Apache Solr and a sophisticated machine-learning capability. This combination provides users with more relevant results by automatically reranking them based on machine-learning algorithms.
 {: shortdesc}

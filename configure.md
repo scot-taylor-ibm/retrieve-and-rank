@@ -20,7 +20,7 @@ lastupdated: "2017-09-02"
 # Configuring the Retrieve and Rank service
 {: #top}
 
-**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to (migrate)[/docs/services/discovery/migrate-dcs-rr.html].  **Note:** May not apply in select Dedicated environments.
+**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to [migrate](/docs/services/discovery/migrate-dcs-rr.html).  **Note:** May not apply in select Dedicated environments.
 
 You can use the sample `schema.xml` and `solrconfig.xml` files as a starting point for your own configuration with the {{site.data.keyword.retrieveandrankfull}} service.
 {: shortdesc}

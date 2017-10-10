@@ -20,7 +20,7 @@ lastupdated: "2017-09-02"
 # Interaction with Standard Solr
 {: #top}
 
-**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to (migrate)[/docs/services/discovery/migrate-dcs-rr.html].  **Note:** May not apply in select Dedicated environments.
+**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to [migrate](/docs/services/discovery/migrate-dcs-rr.html).  **Note:** May not apply in select Dedicated environments.
 
 This page lists differences between standalone Solr and the Solr-as-a-Service functionality provided by the {{site.data.keyword.retrieveandrankshort}} service. Not all standard Solr operations and options are supported by the {{site.data.keyword.retrieveandrankshort}} service.
 {: shortdesc}
