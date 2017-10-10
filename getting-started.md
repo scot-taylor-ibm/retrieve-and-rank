@@ -20,7 +20,7 @@ lastupdated: "2017-08-31"
 # Getting started tutorial
 {: #sample}
 
-**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to (migrate)[/docs/services/discovery/migrate-dcs-rr.html].  **Note:** May not apply in select Dedicated environments.
+**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to [migrate](/docs/services/discovery/migrate-dcs-rr.html).  **Note:** May not apply in select Dedicated environments.
 
 This tutorial guides you through how to create and train the {{site.data.keyword.retrieveandrankfull}} service with sample data. The tutorial uses a predefined data set to demonstrate the capabilities of the service, but you can use the same steps to create a service instance that uses your own data.
 {: shortdesc}

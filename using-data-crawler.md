@@ -19,7 +19,7 @@ lastupdated: "2017-09-02"
 
 # Using the Data Crawler
 
-**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to (migrate)[/docs/services/discovery/migrate-dcs-rr.html].  **Note:** May not apply in select Dedicated environments.
+**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to [migrate](/docs/services/discovery/migrate-dcs-rr.html).  **Note:** May not apply in select Dedicated environments.
 
 The Data Crawler is a command-line tool that helps you take your documents from the repositories where they reside (for example, file shares, databases, Microsoft Sharepoint&reg;) and push them to the cloud to create a {{site.data.keyword.retrieveandrankshort}} index automatically. The following sections provide instructions to install, configure, and use the Data Crawler.
 {: shortdesc}

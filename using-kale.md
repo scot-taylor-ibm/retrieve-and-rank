@@ -19,7 +19,7 @@ lastupdated: "2017-08-29"
 
 # Using Kale
 
-**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to (migrate)[/docs/services/discovery/migrate-dcs-rr.html].  **Note:** May not apply in select Dedicated environments.
+**Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to [migrate](/docs/services/discovery/migrate-dcs-rr.html).  **Note:** May not apply in select Dedicated environments.
 
 Kale is a command-line tool that helps you quickly create, configure, and manage the {{site.data.keyword.watson}} services that you need to gather documents and query them: {{site.data.keyword.retrieveandrankshort}} and [{{site.data.keyword.documentconversionshort}}](/docs/services/document-conversion/index.html). The following sections provide instructions to install, configure, and use Kale, including creating the configuration used by the Data Crawler.
 {: shortdesc}
