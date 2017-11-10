@@ -38,7 +38,7 @@ To complete the tutorial, you need the following:
 If you already know the credentials for your {{site.data.keyword.retrieveandrankshort}} service instance, skip this step.
 {: tip}
 
-1.  Go to the [{{site.data.keyword.retrieveandrankshort}} service ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://console.bluemix.net/catalog/services/retrieve-and-rank/){: new_window} and either sign up for a free Bluemix account or log in.
+1.  Go to the [{{site.data.keyword.retrieveandrankshort}} service ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://console.bluemix.net/catalog/services/retrieve-and-rank/){: new_window} and either sign up for a free {{site.data.keyword.Bluemix_notm}} account or log in.
 1.  After you log in, enter `retrieve-and-rank-tutorial` in the **Service name field** of the {{site.data.keyword.retrieveandrankshort}} page. Click **Create**.
 1.  Copy your credentials:
     1.  Click **Service credentials**.
