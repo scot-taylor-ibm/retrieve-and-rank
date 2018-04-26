@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2015, 2017
-lastupdated: "2017-08-31"
+  years: 2015, 2018
+lastupdated: "2018-04-26"
 
 ---
 
@@ -19,6 +19,10 @@ lastupdated: "2017-08-31"
 
 # Release notes
 {: #top}
+
+**Important**: The {{site.data.keyword.retrieveandrankshort}} service is not suitable for clients that are subject to the EU General Data Protection Regulation EU 2016/679 (GDPR). 
+
+  Clients that are subject to GDPR need to move to the Watson Discovery service before 23 May 2018 and to change to the new agreement for that service. See [Migrating from Watson Document Conversion and Retrieve and Rank](/docs/services/discovery/migrate-dcs-rr.html#migrating-from-watson-document-conversion-and-retrieve-and-rank) for details on migrating.
 
 **Important:** Starting on **11-03-2017**, it will no longer be possible to create a new instance of {{site.data.keyword.retrieveandrankshort}} on Bluemix. Existing service instances will be supported until **10-03-2018**. To continue using features, you will need to [migrate](/docs/services/discovery/migrate-dcs-rr.html).  **Note:** May not apply in select Dedicated environments.
 
